@@ -110,7 +110,7 @@ const Footer = () => {
           </Col>
 
           <Col lg='12' className="text-center pt-5">
-            <p className="copyright">Copyright {year}, design and develop by Nilanka Jayalath.All Rights reserved.</p>
+            <p className="copyright">Copyright {year}, design and develop by Aman Sharma. All Rights reserved.</p>
           </Col>
         </Row>
       </Container>
