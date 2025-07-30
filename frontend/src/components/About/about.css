@@ -1,0 +1,57 @@
+/* Container Styling */
+.about-container {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  /* Header Section */
+  .about-header {
+    background-color: #7ed3ec;
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  .about-header h1 {
+    margin: 0;
+  }
+  
+  /* About Section */
+  .about-section {
+    padding: 30px;
+    text-align: justify;
+  }
+  
+  .about-section h2 {
+    text-align: center;
+    color: #4caf50;
+    margin-bottom: 20px;
+  }
+  
+  .highlight {
+    font-weight: bold;
+    color: #4caf50;
+  }
+  
+  /* Mission Section */
+  .mission-section {
+    background-color: #e8f5e9;
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    text-align: justify;
+  }
+  
+  .mission-section h2 {
+    text-align: center;
+    color: #4caf50;
+    margin-bottom: 20px;
+  }
+  
+
+  
